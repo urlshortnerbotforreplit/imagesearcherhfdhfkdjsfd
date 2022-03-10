@@ -1,0 +1,26 @@
+{
+  "name": "unsplash-telegram-bot",
+  "version": "1.0.0",
+  "description": "You can use Unsplash form you telegram by this bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "unsplash",
+    "telegram",
+    "bot",
+    "telegram-bot"
+  ],
+  "author": "Bipul Dey",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15",
+    "telegraf": "^4.7.0"
+  }
+}

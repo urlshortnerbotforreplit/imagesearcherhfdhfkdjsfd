@@ -1,0 +1,5 @@
+node_modules
+makejsonfile.js
+results.json
+.netlify
+.vscode
